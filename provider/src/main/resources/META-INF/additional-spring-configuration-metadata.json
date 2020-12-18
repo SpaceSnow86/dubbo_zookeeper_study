@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "dubbo.config-center.timeout",
+      "type": "java.lang.String",
+      "description": "Description for dubbo.config-center.timeout."
+  }
+] }
